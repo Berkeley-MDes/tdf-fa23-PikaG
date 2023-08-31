@@ -7,17 +7,22 @@
 + Summary
 
 ## Laser cut cell phone stand
-![lasercut1](https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/lasercut1.jpg)
-
 <p align="center">
   <img src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/lasercut1.jpg" alt="lasercut1" width="500"/>
 </p>
 
-![lasercut2](https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/lasercut2.jpg)
+<p align="center">
+  <img src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/lasercut2.jpg" alt="lasercut2" width="500"/>
+</p>
 
-![lasercut3](https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/lasercut3.jpg)
+<p align="center">
+  <img src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/lasercut3.jpg" alt="lasercut3" width="500"/>
+</p>
 
-![lasercut4](https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/lasercut4.jpg)
+<p align="center">
+  <img src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/lasercut4.jpg" alt="lasercut4" width="500"/>
+</p>
+
 
 
 ## Exploring Rhino and Grasshopper
