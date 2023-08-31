@@ -23,6 +23,13 @@
   <img src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/lasercut4.jpg" alt="lasercut4" width="500"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/phonestand1.jpg" alt="phonestand1" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/phonestand2.jpg" alt="phonestand2" width="500"/>
+</p>
 
 
 ## Exploring Rhino and Grasshopper
