@@ -1,11 +1,11 @@
-# Hello DES INV 202 Student!
+# Navigator
 
----
+
 ## Weekly Reports
 
 [Example Report 1](weekly-reports/example-report-1.md)
 
---- 
+
 ## Quick Links, compiled here for your convenience: ##
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
