@@ -2,14 +2,14 @@
 # Weekly Report 1 - 08/24/2023 - 08/31/2023
 
 ## Overview
-+ Laser cut cell phone stand
 + Exploring Rhino and Grasshopper
-+ Summary
++ Laser Cut Cell Phone Stand
++ Reflection and Speculation
 
 ## Exploring Rhino and Grasshopper
 
 
-## Laser cut cell phone stand
+## Laser Cut Cell Phone Stand
 
 #### Explore the laser cut files
 
@@ -46,7 +46,7 @@
 
 - **Here is a nice phone stand!** Given my limited experience with laser cut, this trial is really excited to me. Thanks to the help of both my peers and Jacobs's design specialists!
 
-## Summary
+## Reflection and Speculation
 
 
 
