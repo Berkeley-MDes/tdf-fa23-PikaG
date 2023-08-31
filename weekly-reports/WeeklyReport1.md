@@ -9,6 +9,8 @@
 ## Laser cut cell phone stand
 ![lasercut1](https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/lasercut1.jpg)
 
+<img src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/lasercut1.jpg" alt="lasercut1" width="500"/>
+
 ![lasercut2](https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/lasercut2.jpg)
 
 ![lasercut3](https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/lasercut3.jpg)
