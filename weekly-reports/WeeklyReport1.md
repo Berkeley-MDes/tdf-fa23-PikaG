@@ -7,7 +7,14 @@
 + Reflection and Speculation
 
 ## Exploring Rhino and Grasshopper
+<div style="display:inline-block">
+  <p align="center">
+    <img width="500" alt="grasshopper1" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/771ee25d-a3c3-4a99-a938-f34fc0998c14">
+    <img width="500" alt="rhino1" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/2b86cc7b-7ca8-4af7-b63a-4a6d9466e23b">
+  </p>
+</div>
 
+- Over the course of this week, I completed a portion of the Rhino and Grasshopper tutorial. Currently, I am engaged in the process of both exploring and modifying the provided cell phone stand file. I am new to CAD and learning Rhino and Grasshopper is a challenge for me. Though I am excited exploring CAD and making efforts!
 
 ## Laser Cut Cell Phone Stand
 
