@@ -24,11 +24,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/phonestand1.jpg" alt="phonestand1" width="500"/>
+  <img src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/phonestand1.png" alt="phonestand1" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/phonestand2.jpg" alt="phonestand2" width="500"/>
+  <img src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/blob/main/weekly-reports/pics/phonestand2.png" alt="phonestand2" width="500"/>
 </p>
 
 
