@@ -3,7 +3,7 @@
 
 ## Weekly Reports
 
-[Example Report 1](weekly-reports/WeeklyReport1.md)
+- [Weekly Report 1](weekly-reports/WeeklyReport1.md)
 
 
 ## Quick Links, compiled here for your convenience: ##
