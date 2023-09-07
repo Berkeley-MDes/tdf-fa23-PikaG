@@ -37,7 +37,7 @@ Furthermore, I took the initiative to search for additional Grasshopper tutorial
 
 #### Additional Models
 
-- Besides the project 1 pre-project walkthrough video, I also searched for some Grasshopper tutorials and followed them to generate some simple models.
+- Besides the project 1 pre-project walkthrough video, I also searched for some Grasshopper tutorials and followed them to generate some simple models. The image below is a model of randomly generated cubes. 
 
 <p align="center">
   <img width="800" alt="截屏2023-09-07 16 22 18" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/dfbbb82a-33de-4dfd-8f97-de9a8aa95635">
