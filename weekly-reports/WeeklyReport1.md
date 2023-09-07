@@ -55,6 +55,17 @@
 
 ## Reflection and Speculation
 
+<div style="display:inline-block">
+  <p align="center">
+    <img width="500" alt="speculation1" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/50edaa22-e5c9-4999-bdf3-b36cdda5f327">
+    <img width="500" alt="speculation2" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/a5b3f1c7-282f-4681-951f-314fac121f96">
+  </p>
+</div>
+
+For further improving the model, I have two ideas:
+
+- **Appearance Design.** As shown in the picture above, the ordinary wooden mobile phone holder is designed in the shape of a chair, adding aesthetic value to the item while maintaining a simple structure.
+- **Make the angle adjustable.** The angles of the two mobile phone holders in the picture above can be adjusted. This design feature allows the mobile phone holder to better accommodate the needs of users and adapt to various usage scenarios.
 
 
 ---
