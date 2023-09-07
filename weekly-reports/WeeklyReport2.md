@@ -6,6 +6,7 @@ I also tried to generate geometry in Grasshopper and made modification.
 
 ## Grasshopper model
 
+can we remove a cylinder from the volume to reduce the volume we need to print?
 
 ## Reflection and Speculation
 Design thinking prompt: Start considering the design of systems rather than singular objects
