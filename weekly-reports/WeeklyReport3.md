@@ -15,12 +15,24 @@ I drew multiple sketches for different design ideas. Considering feasibility and
 
 #### Step 2: Modeling and Iteration
 
+This is the first 
 ![WechatIMG818](https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/9fe3c1c1-3ef5-4df1-a15d-1cfd936be5a6)
+<img width="640" alt="截屏2023-09-13 21 42 56" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/21b498ae-67ae-4fc1-98fc-37fcc8cd1d80">
 
 
-Compared with my
 
+Interation:
+<img width="1470" alt="截屏2023-09-13 21 37 36" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/5bb77b86-a9e5-4fb6-9d0c-2122eb32c015">
 
+Adding space for charging cable.
+
+<img width="272" alt="截屏2023-09-13 21 37 49" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/f7e516b0-646b-4621-9573-c95007345246">
+
+Extend the internal structure for holding the phone.
+<img width="212" alt="截屏2023-09-13 21 38 10" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/a3052727-ffa8-4a6b-95fc-30aab5f5901b">
+
+make the back side non-hollow.
+<img width="247" alt="截屏2023-09-13 21 38 31" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/7b98a6ea-8de7-4242-9ddb-01d898b08bc3">
 
 
 The following pictures is the screenshots of the .stl file after baking and eexporting the model.
@@ -29,12 +41,15 @@ The following pictures is the screenshots of the .stl file after baking and eexp
   <img width="500" alt="截屏2023-09-13 21 30 14" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/a010668e-08a2-4ce6-be28-9f57a1bc8fa5">
 </p>
 
-
-
 #### Step 3: 3D Printing
+After baking the
+(cura)
+
+![IMG_6353](https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/e017f6b1-068b-4e77-8aed-c6847291fe11)
+
 
 #### Exhibition
-
+ (pic of final result)
 
 ## Reflection
 
