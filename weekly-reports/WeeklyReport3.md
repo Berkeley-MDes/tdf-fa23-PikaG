@@ -73,11 +73,21 @@ I put the .stl file in Cura to prepare it for 3D printing. I rotated my model to
 
 Start my printing!
 <p align="center">
-  <img width="500" alt="IMG_6353" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/e017f6b1-068b-4e77-8aed-c6847291fe11">
+  <img width="500" alt=“IMG_6381” src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/3b5298bf-e968-4001-b80e-36b92c797c7a">
 </p>
 
-#### Exhibition
- (pic of final result)
+This is my initial printout, and it's evident that it didn't turn out as expected. Upon inspection, I realized that I mistakenly selected the profile for the Prusa printer in the print file, but I actually used the Ultimaker 3 for printing. I also chose the fast and lower quality profile while printing. But happily, my design achieved the expected function. The audio amplifier sounds amazing and it can hold my cell phone steadily. 
+
+<p align="center">
+  <img width="500" alt=“IMG_6382” src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/37e0d636-c7f2-4df1-9203-bc2f21dbb809">
+</p>
+
+After recognizing the errors in printing, I reconfigured the printer to Prusa and printed a piece using the normal profile and this work will be finished after the end of this week’s TDF class.
+
+<p align="center">
+  <img width="500" alt=“IMG_6380” src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/4e491e10-ce8c-45f5-b262-0b78eeb097fd">
+</p>
+
 
 ## Reflection
 - I learned about GHX after completing my modeling work. It's a feature that enables me to use programming languages for modeling. Given my prior programming experience, I'm interested in exploring this feature. Working with Grasshopper has been overall enjoyable, and I've noticed improvement compared to previous weeks.
