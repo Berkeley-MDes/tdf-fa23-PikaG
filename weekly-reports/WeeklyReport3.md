@@ -6,8 +6,10 @@ This week I worked on project 1 to create a personalized cell phone stand. To ac
 ## Project 1: Computational Design
 
 #### Step 1: Ideation and Sketching
-Before sketching my design, I first browsed the cell phone stands on the market and summarized the ideas that interested me in these designs. While browsing, I was also summarizing my needs for cell phone stands in life.
-
+Prior to sketching my design, I took some time to survey the cell phone stands available in the market. I made note of the aspects that intrigued me in these designs. Additionally, while browsing, I reflected on my own requirements for a cell phone stand in everyday life.
+<p align="center">
+  <img width="750" alt="otherStandDesigns" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/b82e923c-37ff-4d7d-8c11-fb69c067b5b5">
+</p>
 
 I drew multiple sketches for different design ideas. Considering feasibility and fun, and finally selected the design for a cell phone stand + audio amplifier. 
 ![IMG_6354](https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/7d2bebeb-3b60-45d5-9547-b1fe484f097e)
