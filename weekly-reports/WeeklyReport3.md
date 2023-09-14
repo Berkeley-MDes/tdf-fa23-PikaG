@@ -18,10 +18,17 @@ I drew multiple sketches for different design ideas. Considering feasibility and
 ![WechatIMG818](https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/9fe3c1c1-3ef5-4df1-a15d-1cfd936be5a6)
 
 
+Compared with my
 
-The out put stl file:
-<img width="736" alt="截屏2023-09-13 21 30 26" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/50f6b405-6fd9-4da8-be1f-a477bb74b0c9">
-<img width="834" alt="截屏2023-09-13 21 30 14" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/a010668e-08a2-4ce6-be28-9f57a1bc8fa5">
+
+
+
+The following pictures is the screenshots of the .stl file after baking and eexporting the model.
+<p align="center">
+  <img width="500" alt="截屏2023-09-13 21 30 26" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/50f6b405-6fd9-4da8-be1f-a477bb74b0c9">
+  <img width="500" alt="截屏2023-09-13 21 30 14" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/a010668e-08a2-4ce6-be28-9f57a1bc8fa5">
+</p>
+
 
 
 #### Step 3: 3D Printing
