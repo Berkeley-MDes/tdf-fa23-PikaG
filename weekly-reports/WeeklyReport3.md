@@ -78,6 +78,5 @@ Start my printing!
  (pic of final result)
 
 ## Reflection
-- interested in using ghx.
-- ecocentrism.
-- 
+- I learned about GHX after completing my modeling work. It's a feature that enables me to use programming languages for modeling. Given my prior programming experience, I'm interested in exploring this feature. Working with Grasshopper has been overall enjoyable, and I've noticed improvement compared to previous weeks.
+- This week, while studying Latour's Compositionist Manifesto in the course 'Debates in Design,' I came across the concept of ecocentrism in ecological politics. I'm interested in further researching the idea of ecocentric design and exploring ways to integrate it into my own design work.
