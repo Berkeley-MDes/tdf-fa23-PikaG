@@ -15,7 +15,7 @@ This week I worked on project 1 to create a personalized cell phone stand. To ac
 #### Exhibition
 
 
-## Speculation
+## Reflection
 
 - interested in using ghx.
 - ecocentrism.
