@@ -7,7 +7,7 @@ This week I worked on project 1 to create a personalized cell phone stand. To ac
 
 #### Step 1: Ideation and Sketching
 Before sketching my design, I first browsed the cell phone stands on the market and summarized the ideas that interested me in these designs. While browsing, I was also summarizing my needs for cell phone stands in life.
-(pic of summary)
+
 
 I drew multiple sketches for different design ideas. Considering feasibility and fun, and finally selected the design for a cell phone stand + audio amplifier. 
 ![IMG_6354](https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/7d2bebeb-3b60-45d5-9547-b1fe484f097e)
@@ -15,24 +15,46 @@ I drew multiple sketches for different design ideas. Considering feasibility and
 
 #### Step 2: Modeling and Iteration
 
-This is the first 
-![WechatIMG818](https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/9fe3c1c1-3ef5-4df1-a15d-1cfd936be5a6)
-<img width="640" alt="截屏2023-09-13 21 42 56" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/21b498ae-67ae-4fc1-98fc-37fcc8cd1d80">
+I used Grasshopper to model my phone stand. The screenshot below shows the initial version of my model.
+<p align="center">
+  <img width="500" alt="WechatIMG818" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/51eb2213-b21e-4497-a8b9-35e30b271ea2">
+  <img width="500" alt="截屏2023-09-13 21 42 56" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/21b498ae-67ae-4fc1-98fc-37fcc8cd1d80">
+</p>
 
+I first built a rectangular box with two cylinders as the major part of my model. Then I built a similar but smaller entity and made boolean difference with the bigger one to make the internal structure hollow.
+<p align="center">
+  <img width="500" alt="截屏2023-09-13 21 43 11" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/df2b7e95-9015-4207-b9fa-8644d29adca1">
+</p>
 
+Then I added two rectangular boxes inside the shell to hold the phone.
+<p align="center">
+  <img width="500" alt="截屏2023-09-13 21 44 09" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/f05b56b1-2241-45bf-8f97-715dd44eab8d">
+</p>
 
-Interation:
-<img width="1470" alt="截屏2023-09-13 21 37 36" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/5bb77b86-a9e5-4fb6-9d0c-2122eb32c015">
+The next step I used boxes to created acoustic structures that can amplify the sounds from the phone.
+<p align="center">
+  <img width="500" alt="截屏2023-09-13 21 44 21" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/ae64d25f-9ce8-4704-ba4b-6641ee592639">
+</p>
 
-Adding space for charging cable.
+After exporting the first model and slicing it in cura, I found the extimated time is 8 hours and then I started to consider methods of reducing printing time. I adjusted the parameters in grasshopper to make the model thinner and smaller so that the solid part needed to be printed was reduced. In this process, I also came up with several ideas to improve the model.
+<p align="center">
+  <img width="500" alt="截屏2023-09-13 21 37 36" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/5bb77b86-a9e5-4fb6-9d0c-2122eb32c015">
+</p>
 
-<img width="272" alt="截屏2023-09-13 21 37 49" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/f7e516b0-646b-4621-9573-c95007345246">
+- Adding space for charging cable: 
+<p align="center">
+  <img width="250" alt="截屏2023-09-13 21 37 49" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/f7e516b0-646b-4621-9573-c95007345246">
+</p>
 
-Extend the internal structure for holding the phone.
-<img width="212" alt="截屏2023-09-13 21 38 10" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/a3052727-ffa8-4a6b-95fc-30aab5f5901b">
+- Extending the internal structure to improve stability:
+<p align="center">
+  <img width="250" alt="截屏2023-09-13 21 38 10" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/a3052727-ffa8-4a6b-95fc-30aab5f5901b">
+</p>
 
-make the back side non-hollow.
-<img width="247" alt="截屏2023-09-13 21 38 31" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/7b98a6ea-8de7-4242-9ddb-01d898b08bc3">
+- Deleting the hollow structures on the backside of the stands to improve the audio effect:
+<p align="center">
+  <img width="250" alt="截屏2023-09-13 21 38 31" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/7b98a6ea-8de7-4242-9ddb-01d898b08bc3">
+</p>
 
 
 The following pictures is the screenshots of the .stl file after baking and eexporting the model.
@@ -42,17 +64,20 @@ The following pictures is the screenshots of the .stl file after baking and eexp
 </p>
 
 #### Step 3: 3D Printing
-After baking the
-(cura)
+I put the .stl file in Cura to prepare it for 3D printing. I rotated my model to reduce the support and then sliced it. Compared with my first model, the estimated time was reduced to 6 hours from 8 hours.
+<p align="center">
+  <img width="500" alt="截屏2023-09-13 22 13 31" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/ad5b2df7-921e-45a8-aa69-73f80eec4373">
+</p>
 
-![IMG_6353](https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/e017f6b1-068b-4e77-8aed-c6847291fe11)
-
+Start my printing!
+<p align="center">
+  <img width="500" alt="IMG_6353" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/e017f6b1-068b-4e77-8aed-c6847291fe11">
+</p>
 
 #### Exhibition
  (pic of final result)
 
 ## Reflection
-
 - interested in using ghx.
 - ecocentrism.
 - 
