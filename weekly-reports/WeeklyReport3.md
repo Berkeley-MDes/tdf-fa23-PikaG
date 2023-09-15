@@ -76,6 +76,7 @@ Start my printing!
   <img width="500" alt=“IMG_6381” src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/3b5298bf-e968-4001-b80e-36b92c797c7a">
 </p>
 
+#### Exhibition
 This is my initial printout, and it's evident that it didn't turn out as expected. Upon inspection, I realized that I mistakenly selected the profile for the Prusa printer in the print file, but I actually used the Ultimaker 3 for printing. I also chose the fast and lower quality profile while printing. But happily, my design achieved the expected function. The audio amplifier sounds amazing and it can hold my cell phone steadily. 
 
 <p align="center">
@@ -87,6 +88,8 @@ After recognizing the errors in printing, I reconfigured the printer to Prusa an
 <p align="center">
   <img width="500" alt=“IMG_6380” src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/4e491e10-ce8c-45f5-b262-0b78eeb097fd">
 </p>
+
+Link of the presentation video: https://www.youtube.com/watch?v=A9CtUZZ4MDk
 
 
 ## Reflection
