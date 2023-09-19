@@ -8,7 +8,7 @@
 - [Weekly Report 3](weekly-reports/WeeklyReport3.md)
 
 ## Porjects
-- [myCellPhone](myCellPhone.gh)
+- [Project 1: Computational Design](myCellPhone.gh)
 
 ## Quick Links, compiled here for your convenience: ##
 
