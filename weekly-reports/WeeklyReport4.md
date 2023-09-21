@@ -6,19 +6,19 @@ This week, we finished our first project in computational design and moved on to
 ## Photon2 Set Up
 - [Photon2 Set Up Tutorial](https://github.com/loopstick/Photon2_Tutorial/blob/main/README.md#start-here)
 
-I followed the initial set up steps in the above tutorial and connected my device to Berkeley IoT after I arrived on campus. 
-(pic of connected to IoT)
+I followed the initial set-up steps in the above tutorial and connected my device to Berkeley IoT after arriving on campus.
+(pic of connected IoT)
 
-After I set up my Photon2 mainboard, I tried some sample programs on it. The first program I tried was the helloworld example.
+After setting up my Photon2 mainboard, I tried some sample programs on it. The first program I attempted was the "helloworld" example.
 (pic)
 
-Next step, I connected the circuit followed the diagram and tried the blink example to blink an external LED.
+Next, I connected the circuit according to the diagram and attempted the 'blink' example to make an external LED blink.
 (pic)
 
-I also tried to light up both the internal and external LED using provided example. 
+I also attempted to light up both the internal and external LEDs using the provided example.
 (pic)
 
-Then I connected a sensor to my circuit and use analogRead() to read from the sensor. Here is the message from the serial monitor. 
+Then, I connected a sensor to my circuit and used 'analogRead()' to gather data from the sensor. Here is the output from the serial monitor.
 (pic)
 
 ## Speculation & Reflection
