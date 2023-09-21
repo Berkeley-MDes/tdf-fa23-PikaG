@@ -10,16 +10,25 @@ I followed the initial set-up steps in the above tutorial and connected my devic
 (pic of connected IoT)
 
 After setting up my Photon2 mainboard, I tried some sample programs on it. The first program I attempted was the "helloworld" example.
-(pic)
+<p align="center">
+  <img width="500" alt="IMG_6525" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/657b8ef9-7d2e-44ff-b863-6ea07819eccd">
+</p>
+
 
 Next, I connected the circuit according to the diagram and attempted the 'blink' example to make an external LED blink.
-(pic)
+<p align="center">
+  <img width="500" alt="ezgif-2-82d54731cb" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/384a333a-3519-4a18-97cc-653b3d23f4a8">
+</p>
 
 I also attempted to light up both the internal and external LEDs using the provided example.
-(pic)
+<p align="center">
+  <img width="500" alt="ezgif-2-447011110d" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/71f6940e-8aac-4bc5-82ce-3becfdcd89e0">
+</p>
 
 Then, I connected a sensor to my circuit and used 'analogRead()' to gather data from the sensor. Here is the output from the serial monitor.
-(pic)
+<p align="center">
+  <img width="500" alt="截屏2023-09-21 11 32 57" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/7c6f2629-b25b-4f3c-adaf-540ec413220e">
+</p>
 
 ## Speculation & Reflection
 In our next project we will explore the topic of the digital ecosystem. A digital ecosystem refers to the interconnected network of digital platforms, technologies, and services that collaborate to create, deliver, and consume digital goods and services. It encompasses various elements, including hardware, software, applications, data, and the users who interact with them. 
