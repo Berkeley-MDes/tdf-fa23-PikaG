@@ -6,10 +6,7 @@ This week, we finished our first project in computational design and moved on to
 ## Photon2 Set Up
 Link: [Photon2 Set Up Tutorial](https://github.com/loopstick/Photon2_Tutorial/blob/main/README.md#start-here)
 
-I followed the initial set-up steps in the above tutorial and connected my device to Berkeley IoT after arriving on campus.
-(pic of connected IoT)
-
-After setting up my Photon2 mainboard, I tried some sample programs on it. The first program I attempted was the "helloworld" example.
+I first followed the initial set-up steps in the above tutorial and connected my device to Berkeley IoT after arriving on campus. After setting up my Photon2 mainboard, I tried some sample programs on it. The first program I attempted was the "helloworld" example.
 <p align="center">
   <img width="500" alt="IMG_6525" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/657b8ef9-7d2e-44ff-b863-6ea07819eccd">
 </p>
