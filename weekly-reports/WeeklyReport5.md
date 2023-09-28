@@ -1,4 +1,4 @@
-# Weekly Report 5 - 09/21/2023 - 09/27/2023
+# Weekly Report 5 - 09/21/2023 - 09/28/2023
 
 ## Summary
 During last Thursday's class, we proceeded with the Photon2 setup and linked our devices to the Berkeley IoT Wi-Fi. Subsequently, we explored on basic programming to gain a better understanding of Photon2's input and output capabilities. In this week's Monday class, we engaged in group discussions about the ideation for Project 2 and conducted brainstorming sessions across various domains.
