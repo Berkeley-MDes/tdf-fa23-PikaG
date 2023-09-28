@@ -3,15 +3,11 @@
 ## Summary
 
 
-## ??
+## Exploring TUI
+This semester, I enrolled in another course, TUI. In this class, I learned to utilize Arduino to develop interactive programs. Looking ahead to our upcoming Project 2, I believe I can leverage the skills acquired from the course. I'd like to share an assignment I completed last week for the TUI class:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/j5uzwZws0cM/0.jpg)](http://www.youtube.com/watch?v=j5uzwZws0cM "Lab 4: Sensing - FSR and Photocell")
-
-https://www.youtube.com/watch?v=j5uzwZws0cM
-
-<p align="center">
-  <img ??>
-</p>
-
+  [![lab4video](http://img.youtube.com/vi/j5uzwZws0cM/0.jpg)](http://www.youtube.com/watch?v=j5uzwZws0cM "Lab 4: Sensing - FSR and Photocell")
+  
+For this assignment, my objective was to generate a visualization of colorful ink drips using Processing while controlling the drips with an FSR. I began by connecting the FSR to the circuit and subsequently configured the StandardFirmata sketch in Arduino. To achieve the desired visual effect of drips, I initially delved into various tutorials, thoroughly examined the code, and eventually developed my own custom sketch to create the visual effect. I also tried to embeded the FSR into a ball to enhance the intuitiveness of the interactive motion.
 
 ## Speculation
