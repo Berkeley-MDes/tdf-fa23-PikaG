@@ -5,25 +5,28 @@ This week, we started to work on Project 2, titled "Survivor's Sentinels." Initi
 
 ## Project 2 Ideation
 **Background:** <p>
-In a world where climate change is reshaping our environment…
-Our project offers a simple yet caring solution to foster a deeper connection with nature. 
+In a world undergoing significant environmental changes due to climate shifts...
 
-Through creating personalized garden collections by real actions and contact, users may come to appreciate the adaptation, resilience, and changes of plants in our environment and the larger ecosystem.
+Our project presents a straightforward yet compassionate approach to cultivating a deeper connection with nature.
 
-
-
+By curating personalized garden collections through tangible interactions and hands-on engagement, users can gain a newfound appreciation for the adaptability, resilience, and transformations of plants in our surroundings and within the broader ecosystem.
 
 
+**Goal:** <p>
+Utilizing the Particle Photon 2 IoT development board kit, we aim to develop a wearable device that integrates sensors and a camera. This device will assist users in capturing images and data of their plants' growth conditions and environments, which will then be visualized for further analysis and collection.
 
-
-
-
+**Credit to my awesome teammates: Wanlun, Seren, Xinyu!!**
 
 <p align="center">
+  <img width="900" alt="截屏2023-10-05 12 28 45" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/ec987fc0-6542-4a58-837e-78c023ed409c">
+</p>
+<p align="center">
+  <img width="900" alt="截屏2023-10-05 12 28 52" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/97970540-44d1-426f-9143-7dd7760a05c3">
+</p>
+<p align="center">
+  <img width="700" alt="截屏2023-10-05 14 02 30" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/a90e1e69-4917-4f8d-846f-ecb422b0a8b3">
 </p>
 
-
-Credit to my awesome teammates: Wanlun, Seren, Xinyu
 
 ## Speculation
 Even though it wasn't incorporated into this project, I'd still like to share some of my initial research. The image below summarized my prior approach researches, which include projects centered around biomaterials and their impact on plant growth. I didn't have much knowledge about biomaterials before, but after researching on these wonderful projects, I've come to realize their excellent potential as a research subject. I've browsed several projects from the Mediated Matter group at the MIT Media Lab, and the research on melanin particularly captivated me. I look forward to future opportunities where I might participate into projects or researches related to biological materials.
