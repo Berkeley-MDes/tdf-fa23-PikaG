@@ -1,21 +1,17 @@
 # Weekly Report 7 - 10/5/2023 - 10/12/2023
 
 ## Summary
-This week, 
+This week, my primary focus was on Project 2, particularly the software interactive design component. Working with Unity, I successfully constructed an engaging interactive scenario, featuring a 3D cartoon island and a character capable of planting a tree in response to Arduino serial input. Other team members have made significant progress in writing VS code for Photon2 and 3D modeling. 
+
+Moving forward, I'll continue to concentrate on refining the Unity interaction design. This step is crucial for effectively displaying the desired parameters, ensuring a seamless user experience. While there's still some work to be done in figuring out the connection between Photon2 and Unity, I'm confident that we'll overcome this hurdle.
 
 ## Project 2 Progress Report
 
-
-
-
 **Software Interaction (Unity)** <p>
 https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/603a7b18-2f75-4b48-b4d3-2091e7d28cf1
-
-
-
-
-
-
+<p>
+  <img width="500" alt="截屏2023-10-12 17 49 29" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/b6956c64-d37c-4bae-99dd-2ed18265f3e7">
+</p>
 
 
 **Hardware Interaction (Photon 2)**
