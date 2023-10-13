@@ -8,7 +8,7 @@ This week,
 
 
 
-**Unity Interaction** <p>
+**Software Interaction (Unity)** <p>
 https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/603a7b18-2f75-4b48-b4d3-2091e7d28cf1
 
 
@@ -18,7 +18,7 @@ https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/603a7b18-2f75-4b
 
 
 
-**Code**
+**Hardware Interaction (Photon 2)**
 ```
 #include <Photon.h>
 #include <Adafruit_VC0706.h> // 用于摄像头控制的库
