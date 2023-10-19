@@ -10,9 +10,11 @@
 - [Weekly Report 5](weekly-reports/WeeklyReport5.md)
 - [Weekly Report 6](weekly-reports/WeeklyReport6.md)
 - [Weekly Report 7](weekly-reports/WeeklyReport7.md)
+- [Weekly Report 8](weekly-reports/WeeklyReport8.md)
 
 ## Porjects
 - [Project 1: Computational Design](myCellPhone.gh)
+- [Project 2: Digital Ecosystem](https://youtu.be/v1beZFs5Noo)
 
 ## Quick Links, compiled here for your convenience: ##
 - [Weekly Reflection Submission Link](https://tinyurl.com/DESINV202-PersonalReflections) 
