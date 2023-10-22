@@ -6,6 +6,15 @@ This week, we successfully completed Project 2. In this project, we effectively 
 Presentation Video Link: https://youtu.be/v1beZFs5Noo
    
 ## Unity / Photon 2 Code Update
+**Photos:** <p>
+<p align="center">
+	<img width="900" alt="截屏2023-10-22 00 55 48" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/6718b2c8-3c24-4d27-9b68-200ea5714288">
+</p>
+
+<p align="center">
+	<img width="900" alt="截屏2023-10-22 00 56 04" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/e01f2610-595a-4047-b645-7f9b1bc57e5f">
+</p>
+
 **Unity Code** </p>
 **OnCollision**
 ```
@@ -271,14 +280,3 @@ void onDataReceived(const char *event, const char *data) {
 2. We aim to incorporate machine learning algorithms to enable the function of capturing photos for plant type identification and generating corresponding 3D plant models within the scenes. We may achieve this by providing keywords through the algorithm to generate images in Midjourney, and then converting the model through an AI-driven picture processing method.
 
 3. The current prototype exists as a Unity 3D scene. In the future, we aspire to enhance both the scene and its interactive elements into a VR format to further heighten the sense of immersion.
-
-
-
-**Photos:** <p>
-<p align="center">
-	<img width="900" alt="截屏2023-10-22 00 55 48" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/6718b2c8-3c24-4d27-9b68-200ea5714288">
-</p>
-
-<p align="center">
-	<img width="900" alt="截屏2023-10-22 00 56 04" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/e01f2610-595a-4047-b645-7f9b1bc57e5f">
-</p>
