@@ -17,7 +17,7 @@ Presentation Video Link: https://youtu.be/v1beZFs5Noo
 
 **Unity Code** </p>
 **OnCollision**
-```
+```ruby
 using UnityEngine;
 
 public class OnCollision : MonoBehaviour
@@ -72,7 +72,7 @@ public class OnCollision : MonoBehaviour
 }
 ```
 **SerialRead**
-```
+```ruby
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -206,7 +206,7 @@ public class SerialRead : MonoBehaviour
 ```
 **Photon 2 Code** </p>
 **Sender**
-```
+```ruby
 int soilMoisturePin = A0; // Soil Moisture Sensor pin
 int sunlightPin = A1;     // Sunlight Sensor pin
 int ledPin = D7;          // LED light pin
@@ -249,7 +249,7 @@ void loop() {
 }
 ```
 **Receiver**
-```
+```ruby
 int soilMoistureValue = 0;
 int sunlightValue = 0;
 
