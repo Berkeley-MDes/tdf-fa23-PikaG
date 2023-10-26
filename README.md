@@ -11,6 +11,7 @@
 - [Weekly Report 6](weekly-reports/WeeklyReport6.md)
 - [Weekly Report 7](weekly-reports/WeeklyReport7.md)
 - [Weekly Report 8](weekly-reports/WeeklyReport8.md)
+- [Weekly Report 9](weekly-reports/WeeklyReport9.md)
 
 ## Porjects
 - [Project 1: Computational Design](myCellPhone.gh)
