@@ -8,3 +8,9 @@ This week, ??
 <p align="center">
 	<img width="900" alt="">
 </p>
+
+
+
+## Speculation
+- What is the "Digital Twin"?
+- 
