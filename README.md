@@ -14,6 +14,8 @@
 - [Weekly Report 9](weekly-reports/WeeklyReport9.md)
 - [Weekly Report 10](weekly-reports/WeeklyReport10.md)
 
+- [Weekly Report 11](weekly-reports/WeeklyReport11.md)
+
 ## Porjects
 - [Project 1: Computational Design](myCellPhone.gh)
 - Project 2 Digital Ecosystem: https://youtu.be/v1beZFs5Noo
