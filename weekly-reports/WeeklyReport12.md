@@ -1,4 +1,4 @@
-# Weekly Report 11 - 11/9/2023 - 11/16/2023
+# Weekly Report 12 - 11/9/2023 - 11/16/2023
 
 ## Final Project Ideation
 <img width="908" alt="截屏2023-11-16 14 19 46" src="https://github.com/Berkeley-MDes/tdf-fa23-PikaG/assets/74200423/a36e8541-8970-496b-9241-48141226e84b">
