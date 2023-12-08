@@ -30,3 +30,8 @@ We use Photon2 devices, the system transmits data collected by sensors via the P
 Origarden can be set up in various indoor environments, such as homes and offices. You can take the sensor kit with you when exploring nature. Simply place this device next to a plant that interests you. When you return indoors, you can then observe essential information about that specific plant and have interaction with the corresponding origami representation.
 
 ## Conclusion & Speculation
+**Conclusion:** By bringing a piece of nature indoors, Origarden is meant to raise awareness about environmental issues and foster a deeper connection to the natural world.We invite individuals to rediscover the beauty and dynamism of the natural world, even from within their indoor environments.
+
+**Speculation:**
+**Engineering Innovations and Future Potential:** The blend of computational design, digital fabrication, and microcontroller communication in Origarden could lead to new types of interactive installations and advancements in responsive architecture/interior design. 
+**Promoting Environmental Consciousness:** Origarden could encourage a deeper appreciation for the environment, promoting sustainable living practices and raising environmental awareness.
