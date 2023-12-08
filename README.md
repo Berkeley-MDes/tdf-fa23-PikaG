@@ -25,7 +25,7 @@ Final Project:
 - [Weekly Report 14](weekly-reports/WeeklyReport14.md)
 - [Weekly Report 15](weekly-reports/WeeklyReport15.md)
 
-## Porjects
+## Projects
 - [Project 1: Computational Design](myCellPhone.gh)
 - [Project 2: Digital Ecosystem](https://www.youtube.com/watch?v=v1beZFs5Noo)
 - [Project 3: Mini Me](https://youtu.be/jEof8bGRla4)
