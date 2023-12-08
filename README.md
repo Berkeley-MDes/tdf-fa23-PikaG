@@ -23,10 +23,13 @@ Final Project:
 - [Weekly Report 12](weekly-reports/WeeklyReport12.md)
 - [Weekly Report 13](weekly-reports/WeeklyReport13.md)
 - [Weekly Report 14](weekly-reports/WeeklyReport14.md)
+- [Weekly Report 14](weekly-reports/WeeklyReport14.md)
 
 ## Porjects
 - [Project 1: Computational Design](myCellPhone.gh)
-- Project 2 Digital Ecosystem: https://youtu.be/v1beZFs5Noo
+- [Project 2: Digital Ecosystem] (https://youtu.be/v1beZFs5Noo)
+- [Project 3: Mini Me]()
+- [Final Project: Origarden]()
 
 ## Quick Links, compiled here for your convenience: ##
 - [Weekly Reflection Submission Link](https://tinyurl.com/DESINV202-PersonalReflections) 
