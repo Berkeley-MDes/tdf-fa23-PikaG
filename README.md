@@ -23,7 +23,7 @@ Final Project:
 - [Weekly Report 12](weekly-reports/WeeklyReport12.md)
 - [Weekly Report 13](weekly-reports/WeeklyReport13.md)
 - [Weekly Report 14](weekly-reports/WeeklyReport14.md)
-- [Weekly Report 14](weekly-reports/WeeklyReport15.md)
+- [Weekly Report 15](weekly-reports/WeeklyReport15.md)
 
 ## Porjects
 - [Project 1: Computational Design](myCellPhone.gh)
