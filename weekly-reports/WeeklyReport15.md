@@ -1,6 +1,7 @@
 # Weekly Report 15 - 11/30/2023 - 12/7/2023
 
 ## Summary
+During this week, we did some finalization and refinement to our project. We did some tests with our sensor kit under different environment to make sure it can work, and we also added some smaller origami flowers to our model to make it better connect to the "garden" concept. We used moss to cover our model so that it could get a sense of the naturw. We We also took photos and edit our final presentation videos in this week. 
 
 ## Final Project Report
 ### Final Project Showcase
