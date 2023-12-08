@@ -17,6 +17,7 @@ Origarden consists of two main components. The first is a sensor kit designed to
 
 ### Design & Fabrication
 The design and fabrication process have the following three main parts:
+
 **Design & Fabrication of Origami Flowers**
 We utilized the Grasshopper plugin "Crane" for our design. Within our Grasshopper program, the key component is the Crane solver, which serves as the core computational unit. Initially, we defined the positions of key points that constitute the form and specified the boundaries and folding lines. Subsequently, we defined the number of petals by specifying the angles of the flower's petals. Ultimately, the Crane solver was employed to observe the folding configuration of the flower.
 During the design research process, in conjunction with our hardware device, we altered the angles between the petal positioning lines, simplifying the flower from eight petals to four. Simultaneously, by adjusting the parameters of other positioning points, we modified the morphology of the petals. We compared these two approaches and selected our final petal design.
