@@ -34,4 +34,5 @@ Origarden can be set up in various indoor environments, such as homes and office
 
 **Speculation:**
 **Engineering Innovations and Future Potential:** The blend of computational design, digital fabrication, and microcontroller communication in Origarden could lead to new types of interactive installations and advancements in responsive architecture/interior design. 
+
 **Promoting Environmental Consciousness:** Origarden could encourage a deeper appreciation for the environment, promoting sustainable living practices and raising environmental awareness.
