@@ -28,8 +28,8 @@ Final Project:
 ## Porjects
 - [Project 1: Computational Design](myCellPhone.gh)
 - [Project 2: Digital Ecosystem] (https://youtu.be/v1beZFs5Noo)
-- [Project 3: Mini Me]()
-- [Final Project: Origarden]()
+- [Project 3: Mini Me](https://youtu.be/jEof8bGRla4)
+- [Final Project: Origarden](https://youtu.be/Mqj_ka-ls20)
 
 ## Quick Links, compiled here for your convenience: ##
 - [Weekly Reflection Submission Link](https://tinyurl.com/DESINV202-PersonalReflections) 
